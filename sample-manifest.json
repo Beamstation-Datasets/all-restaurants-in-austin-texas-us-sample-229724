@@ -1,0 +1,12 @@
+{
+  "export_job_id": "ffab035a-24ee-449a-bccf-5135087388a4",
+  "id_short": 229724,
+  "published_at": "2026-04-18T07:40:16Z",
+  "repo_name": "all-restaurants-in-austin-texas-us-sample-229724",
+  "sample_asset_name": "beamstation_229724_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/229724/beamstation_229724_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 370,
+  "sample_sha256": "d67904154e7d9c16aa14c3de76b4570b954b27046f8b78290cba6de7d912808d",
+  "sample_size_bytes": 1239432,
+  "total_records": 3707
+}
