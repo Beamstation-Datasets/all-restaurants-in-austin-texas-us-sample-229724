@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Austin, Texas with a population of over 961k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Austin, Texas, US",
-  "export_job_id": "aa4fb906-76fa-4b4b-919b-ed0f1575930e",
+  "export_job_id": "65edffb3-a717-422e-88b0-19d821a7d619",
   "github_org": "Beamstation-Datasets",
   "id_short": 229724,
   "location_name": "Austin",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-austin-texas-us-sample-229724",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/229724/beamstation_229724_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_pct": 9.98,
-  "sample_records": 345,
-  "sample_sha256": "3a2c7f769c26324596a27fef8841de4ba6b98e1cba72dc35854001db3ef5538e",
-  "sample_size_bytes": 1181238,
-  "total_records": 3458,
-  "updated_at": "2026-04-21T22:00:39.471670+00:00"
+  "sample_records": 392,
+  "sample_sha256": "974d9f7e1634166b2726eb0f1661e8c13de656bd761f92b3cb33b0dda1957c95",
+  "sample_size_bytes": 1329009,
+  "total_records": 3926,
+  "updated_at": "2026-04-29T00:29:31.652212+00:00"
 }
