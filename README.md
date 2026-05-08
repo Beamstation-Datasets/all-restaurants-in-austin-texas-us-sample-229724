@@ -1,6 +1,6 @@
 # All Restaurants in Austin, Texas, US
 
-> Free BeamStation sample export with 392 rows and masked direct-contact fields.
+> Free BeamStation sample export with 423 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `229724` |
 | Location | Austin |
 | Category | Restaurants |
-| Full dataset size | 3,926 records |
-| Free sample size | 392 records (9.98%) |
-| Last export | 2026-04-29T00:29:31.652212+00:00 |
+| Full dataset size | 4,239 records |
+| Free sample size | 423 records (9.98%) |
+| Last export | 2026-05-08T07:20:15.696725+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-austin-texas-us-sample-229724/releases/download/sample-latest/beamstation_229724_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
